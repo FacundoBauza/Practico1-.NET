@@ -1,0 +1,12 @@
+C:\Users\visua\source\repos\Practico1\Ejercicio-P1\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\visua\source\repos\Practico1\Ejercicio-P1\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Users\visua\source\repos\Practico1\Ejercicio-P1\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Users\visua\source\repos\Practico1\Ejercicio-P1\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\visua\source\repos\Practico1\Ejercicio-P1\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visua\source\repos\Practico1\Ejercicio-P1\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\visua\source\repos\Practico1\Ejercicio-P1\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\visua\source\repos\Practico1\Ejercicio-P1\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\visua\source\repos\Practico1\Ejercicio-P1\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Users\visua\source\repos\Practico1\Ejercicio-P1\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\visua\source\repos\Practico1\Ejercicio-P1\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Users\visua\source\repos\Practico1\Ejercicio-P1\Entidades\obj\Debug\net6.0\ref\Entidades.dll
